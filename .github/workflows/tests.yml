@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-java@v6
         with:
           distribution: oracle-openjdk
-          java-version: '27-ea'
+          java-version: '27'
           cache: maven
 
       - name: Show Java and Maven versions
