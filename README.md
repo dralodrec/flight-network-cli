@@ -290,15 +290,19 @@ The test results show the completed test suite.
 
 1. **What airports are in each city?**  
    Displays each city and its associated airports.
+   ![Q1](docs/images/Q1.png)
 
 2. **What aircraft has each passenger flown on?**  
    Displays each passenger and the aircraft they have travelled on.
+   ![Q2](docs/images/Q2.png)
 
 3. **What airports does each aircraft take off from and land at?**  
    Displays each aircraft and its associated departure and arrival airports.
+   ![Q3](docs/images/Q3.png)
 
 4. **What airports have passengers used?**  
    Displays each passenger and the airports they have travelled through.
+   ![Q4](docs/images/Q4.png)
 
 Menu options 1–4 correspond to these questions. The CLI retrieves
 each report through a separate HTTP GET request and caches the
